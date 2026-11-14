@@ -1,0 +1,8 @@
+# Model weights (too large for GitHub)
+*.pth
+*.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
